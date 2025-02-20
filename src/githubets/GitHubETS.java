@@ -14,13 +14,8 @@ public class GitHubETS {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Te gusto? responde con un booleano.");
-        boolean respuesta = true;
-        if (respuesta){
-            System.out.println("Acercate.");
-        } else {
-            System.out.println("/me le mete un guantazo");
-        }
+        System.out.println("Hola soy Asier desde netbeans, como estas ibra? preparado para el examen del lunes?");
+       
     }
     
 }
