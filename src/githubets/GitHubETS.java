@@ -15,7 +15,7 @@ public class GitHubETS {
      */
     public static void main(String[] args) {
         System.out.println("Hola soy Asier desde netbeans, como estas ibra? preparado para el examen del lunes?");
-       
+        System.out.println("Hola soy ibrahim, voy bien y tu ?");
     }
     
 }
