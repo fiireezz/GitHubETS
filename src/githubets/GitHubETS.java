@@ -15,6 +15,12 @@ public class GitHubETS {
      */
     public static void main(String[] args) {
         System.out.println("Te gusto? responde con un booleano.");
+        boolean respuesta = true;
+        if (respuesta){
+            System.out.println("Acercate.");
+        } else {
+            System.out.println("/me le mete un guantazo");
+        }
     }
     
 }
